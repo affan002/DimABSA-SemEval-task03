@@ -8,6 +8,7 @@
 
 ### Task 2
 - Extracts duplets (aspect, opinion) https://huggingface.co/affan002/laptop-aspect-opinion-bio
+- Extract duplets multilingual https://huggingface.co/affan002/aspect-opinion-bio-multilingual-faulty
 - For VA score use integrate model from task 1
 
 
